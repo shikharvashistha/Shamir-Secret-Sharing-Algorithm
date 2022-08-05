@@ -1,0 +1,3 @@
+/workspaces/Shamir-Secret-Sharing-Algorithm/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Shamir-Secret-Sharing-Algorithm/build/CMakeFiles/edit_cache.dir
+/workspaces/Shamir-Secret-Sharing-Algorithm/build/CMakeFiles/shamir_secret_sharing.dir
